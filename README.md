@@ -15,6 +15,9 @@ Learning how to use some basic React functionalities.
 
 ```
 npm install
+npm install react react-dom
+npm install --save react-router-dom
+npm i json-server
 ```
 
 ### Run React dev server (http://localhost:3000)
